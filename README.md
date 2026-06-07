@@ -1,4 +1,4 @@
-# DSA-CH23-GROUP-XX
+# DSA-CH23-GROUP-
 
 ## Project Overview
 
